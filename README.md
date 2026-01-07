@@ -6,7 +6,7 @@ Por agora, estou aprendendo também **GML**.
 Eu possuo foco em **desenvolvimento de software e de jogos**. 
 
 E pretendo aprender várias outras linguagens, entre elas são:
-- Pyton;
+- Python;
 - SQL;
 - C#;
 - HTML.
