@@ -11,7 +11,7 @@ E pretendo aprender várias outras linguagens, entre elas são:
 - C#;
 - HTML.
 
-Por agora, não postarei muitos projetos por estar focando em C# com a Unity. 
+Por agora estou focando em aprender C# aplicado com Avalonia.
 
-Mas se quiser que eu construa algo, 
+Se quiser que eu crie algo, 
 pode entrar em contato comigo através do seguinte email: **business.will-theo@outlook.com**
