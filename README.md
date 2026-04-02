@@ -16,3 +16,7 @@ Eu já trabalhei com projetos para meu portfólio como:
 ### Objetivo:
 
 Eu pretendo consolidar cada vez mais meus pilares na programação, procuro aprender cada vez mais linguagens e pretendo trabalhar como Full-Stack futuramente.
+
+### Contato:
+
+business.will-theo@outlook.com
