@@ -1,17 +1,18 @@
-# Olá, eu sou o Willian 👋  
+# Olá, eu sou o Willian 👋
 
-Atualmente, eu programo em **JavaFX**, consigo fazer papel de **Full-Stack** nesta linguagem. 
-Por agora, estou aprendendo também **C#**.
+Sou desenvolvedor iniciante focado em desenvolvimento de Software e Jogos.
+Atualmente eu trabalho com Java (JavaFX) e estou aprendendo csharp (Avalonia UI).
 
-Eu possuo foco em **desenvolvimento de software e de jogos**. 
+### Interesses:
+Eu tenho interesse em criar interfaces gráficas, automação de sistemas, desenvolvimento de jogo e criar projetos que simplifiquem taréfas grandes.
 
-E pretendo aprender várias outras linguagens, entre elas são:
-- Python;
-- SQL;
-- C#;
-- HTML.
+### Projetos:
 
-Por agora estou focando em aprender C# aplicado com Avalonia.
+Eu já trabalhei com projetos para meu portfólio como:
+- Controle de filas (JavaFX),
+- Uma Central de HQs (JavaFX),
+- E em um Gerenciador de Pacotes Linux (Avalonia UI)
 
-Se quiser que eu crie algo, 
-pode entrar em contato comigo através do seguinte email: **business.will-theo@outlook.com**
+### Objetivo:
+
+Eu pretendo consolidar cada vez mais meus pilares na programação, procuro aprender cada vez mais linguagens e pretendo trabalhar como Full-Stack futuramente.
