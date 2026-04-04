@@ -21,4 +21,4 @@ Eu pretendo consolidar cada vez mais meus pilares na programação, procuro expl
 
 ### Contato:
 
-business.will-theo@outlook.com
+business.will.theo@gmail.com
